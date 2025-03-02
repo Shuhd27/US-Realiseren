@@ -38,4 +38,4 @@
  <pre>
     <?php print_r($data); ?>
  </pre>
-<?php require_once APPROOT . '/views/includes/footer.php'; ?>
+<?php require_once APPROOT . '/views/includes/footer.php';?>

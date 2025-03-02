@@ -13,4 +13,4 @@
 
 <a href="<?= URLROOT; ?>/allergenen/index">Terug naar allergenen overzicht</a>
 
-<?php require_once APPROOT . '/views/includes/footer.php'; ?>
+<?php require_once APPROOT . '/views/includes/footer.php';?>
